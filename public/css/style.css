@@ -1,0 +1,14 @@
+.image{
+    width: 150px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: left;
+}
+
+.d-flex {
+    display: flex;
+} 
+section {
+    padding: 5%;
+}
